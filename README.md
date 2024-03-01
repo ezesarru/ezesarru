@@ -1,19 +1,14 @@
 Hi there! 👋
-I'm Eze, a Full Stack Developer with a passion for crafting digital experiences that leave a lasting impact. 💻✨
+I'm Eze, a Full Stack Developer passionate for creating digital experiences. 💻✨
 
-🌱 About Me
-As a Full Stack Developer, I possess strong skills in React, Redux, JavaScript, CSS, HTML, SCRUM, Node, Express, PostgreSQL, and Sequelize. I am a native Spanish speaker with intermediate skills in English.
+🌱 I have strong skills in React, Redux, JavaScript, CSS, HTML, SCRUM, Node, Express, PostgreSQL, and Sequelize. I am a native Spanish speaker with a B2 level in English.
 
-💡 My Approach
-I bring various leadership and motivational qualities, along with an innovative mindset accompanied by incredible intuition, confidence, leadership, communication skills, and everything necessary to give my all to solve any problem.
+💡 I am a strong leader thanks to my past manager job at McDonald's. Also I have an innovative mindset accompanied by incredible intuition, confidence and communication skills.
 
-👯 Looking to Collaborate On
-I'm open to collaborating on exciting projects where I can contribute my expertise and learn from others in the process.
+👯 I'm open to collaborating on exciting projects where I can contribute all of my skills.
 
-📫 How to Reach Me
-Feel free to reach out to me via email or connect with me on LinkedIn.
+📫 Feel free to contact me through ezesarru@gmail.com or linkedin.com/in/ezesarru
 
-😄 Fun Fact
-When I'm not coding, you can find me experimenting with new recipes in the kitchen!
+😄 Fun Fact... When I'm not coding, you can find me experimenting with new recipes in the kitchen or swimming!
 
 Let's create something amazing together! 🚀🌟

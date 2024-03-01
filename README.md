@@ -14,6 +14,6 @@ I'm open to collaborating on exciting projects where I can contribute my experti
 Feel free to reach out to me via email or connect with me on LinkedIn.
 
 😄 Fun Fact
-When I'm not coding, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen!
+When I'm not coding, you can find me experimenting with new recipes in the kitchen!
 
 Let's create something amazing together! 🚀🌟

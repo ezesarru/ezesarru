@@ -9,6 +9,6 @@ I'm Eze, a Full Stack Developer passionate for creating digital experiences. �
 
 📫 Feel free to contact me through ezesarru@gmail.com or www.linkedin.com/in/ezesarru
 
-😄 Fun Fact... When I'm not coding, you can find me experimenting with new recipes in the kitchen or swimming!
+😄 Fun Fact... When I'm not coding, you can find me experimenting with new recipes in the kitchen!
 
 Let's create something amazing together! 🚀🌟
